@@ -5,9 +5,4 @@ Praktek Program Komputer Phyton 2021
 
 ### 1. Latihan Pertama
 
-1. coba
-2. coba 2
-
-angkatan = 2018
-
-print(angkatan)
+1. 
